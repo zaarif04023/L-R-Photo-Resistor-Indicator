@@ -1,0 +1,1 @@
+# L-R-Photo-Resistor-Indicator
